@@ -1,0 +1,35 @@
+{
+  "version": "0.1",
+  "bookmarks": [
+    {
+        "title": "Search",
+        "children" : [
+          {
+            "title": "네이버",
+            "url": "http://www.naver.com"
+          },
+          {
+            "title": "다음",
+            "url": "http://www.daum.net"
+          },
+          {
+            "title": "구글",
+            "url": "http://www.google.com"
+          }
+        ]
+    },
+    {
+        "title": "SNS",
+        "children" : [
+          {
+            "title": "페이스북",
+            "url": "http://www.facebook.com"
+          },
+          {
+            "title": "트위터",
+            "url": "http://www.twitter.com"
+          }
+        ]
+    }
+  ]
+}

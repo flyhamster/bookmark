@@ -1,0 +1,20 @@
+{
+  "name": "Share bookmarks",
+  "version": "0.1",
+  "description": "Share bookmarks",
+  "background": {
+    "scripts": [
+
+    ]
+  },
+  "permissions": [
+    "bookmarks"
+  ],
+  "browser_action": {
+      "default_title": "Courl",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}
